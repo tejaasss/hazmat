@@ -1,0 +1,13 @@
+Corrosive
+Dangerous
+Non-Flammable-gas
+Organic-Peroxide
+Oxygen
+Poison
+Radioactive
+Spontaneously-Combustible
+Explosive
+Flammable-Gas
+Flammable-Solid
+Infectious-Substance
+Inhalation-hazard

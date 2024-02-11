@@ -1,0 +1,3 @@
+/Users/mihirpamnani/Desktop/Github/yolov5-android/android/sdk/.cxx/Debug/28f535j6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/mihirpamnani/Desktop/Github/yolov5-android/android/sdk/.cxx/Debug/28f535j6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mihirpamnani/Desktop/Github/yolov5-android/android/sdk/.cxx/Debug/28f535j6/arm64-v8a/CMakeFiles/opencv_jni_shared.dir

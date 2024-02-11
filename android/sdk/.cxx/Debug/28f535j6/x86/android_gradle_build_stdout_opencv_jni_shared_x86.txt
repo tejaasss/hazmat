@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/mihirpamnani/Desktop/Github/yolov5-android/android/sdk/.cxx/Debug/28f535j6/x86'
+ninja: no work to do.

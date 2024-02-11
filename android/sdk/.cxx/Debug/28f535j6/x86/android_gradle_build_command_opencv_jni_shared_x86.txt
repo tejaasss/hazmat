@@ -1,0 +1,7 @@
+Executable : /Users/mihirpamnani/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/mihirpamnani/Desktop/Github/yolov5-android/android/sdk/.cxx/Debug/28f535j6/x86
+opencv_jni_shared
+jvmArgs : 
+

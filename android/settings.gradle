@@ -1,0 +1,5 @@
+include ':app', ':tensorflow-lite'
+include ':java'
+include ':java'
+include ':java'
+include ':sdk'
